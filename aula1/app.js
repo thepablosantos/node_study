@@ -1,4 +1,4 @@
-const mod1 = require('./mod1');
-console.log(mod1);
+const mode1 = require('./mode1');
+console.log(mode1);
 
 //
